@@ -14,3 +14,4 @@ print( 3 * 45 )
 leanered about syntex
 learned to print statement
 using # in makes the text invincible cannot be count as a word but helps in reviewing things
+learned about int str float
