@@ -1,1 +1,8 @@
-
+learn about python
+for number we should not use ""
+learned about comment 
+we can use =end"" to merge lines together
+learned about calculation in pyhton 
+leanered about syntex
+learned to print statement
+using # in makes the text invincible
