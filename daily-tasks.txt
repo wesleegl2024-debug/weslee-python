@@ -1,8 +1,16 @@
 learn about python
+print("hello, world!")
 for number we should not use ""
-learned about comment 
+print("Im" ,18, "years old")
+learned about comment
+#this is a comment
+print("hello, world!")
+this comment tag helps in at the time of correction
 we can use =end"" to merge lines together
-learned about calculation in pyhton 
+print("hello google!" end="")
+print("this will help in mergeing ", 2, "lines")
+learned about calculation in python
+print( 3 * 45 )
 leanered about syntex
 learned to print statement
 using # in makes the text invincible
