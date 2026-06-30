@@ -7,10 +7,10 @@ learned about comment
 print("hello, world!")
 this comment tag helps in at the time of correction
 we can use =end"" to merge lines together
-print("hello google!" end="")
+print("hello, google!" end="")
 print("this will help in mergeing ", 2, "lines")
 learned about calculation in python
 print( 3 * 45 )
 leanered about syntex
 learned to print statement
-using # in makes the text invincible
+using # in makes the text invincible cannot be count as a word but helps in reviewing things
